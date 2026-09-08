@@ -1,7 +1,3 @@
-Here’s a clean, professional README you can use:
-
- README
-
 # File Naming Convention
 
  Please follow the naming convention below when naming your files:
